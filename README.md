@@ -1,1 +1,1 @@
-# coursers-test
+# course-test
